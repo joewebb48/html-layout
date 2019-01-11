@@ -1,0 +1,52 @@
+body,
+html {
+  padding: 0;
+  margin: 0;
+}
+.grey {
+  width: 100%;
+  padding: 25px;
+  background-color: rgb(173, 173, 173);
+}
+.bluesquare {
+  height: 100px;
+  width: 100px;
+  background-color: rgb(53, 150, 241);
+}
+.textbox {
+}
+h3 {
+  padding: 40px;
+  margin: 15px;
+  text-align: center;
+  color: grey;
+  font-family: fantasy;
+}
+.bluebox {
+  width: 100%;
+  height: 50px;
+  padding-bottom: 40px;
+  padding: 31px;
+  background-color: blue;
+}
+.greenbox {
+  width: 100%;
+  padding: 31px;
+  padding-bottom: 40px;
+  height: 50px;
+  background-color: aqua;
+}
+.dirtybox {
+  width: 100%;
+  padding: 31px;
+  padding-bottom: 40px;
+  height: 50px;
+  background-color: yellowgreen;
+}
+.yellowbox {
+  width: 100%;
+  padding: 31px;
+  height: 50px;
+  background-color: yellow;
+  padding-bottom: 40px;
+}
